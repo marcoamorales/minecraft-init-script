@@ -45,3 +45,5 @@ INVOCATION="java -Xms1024M -Xmx1024M -Djava.net.preferIPv4Stack=true -XX:MaxPerm
 # Add HugePage support if you have it configured on the OS
 # You should be using HugePages if you give more than 4Gb on the Java invocation line
 # -XX:+UseLargePages
+
+SETTINGS_FILE_WORKING="1"
